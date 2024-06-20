@@ -1,0 +1,16 @@
+div {
+  font-style: italic;
+}
+span {
+  font-style: oblique;
+  font-weight: lighter;
+}
+h4 {
+  font-style: oblique;
+}
+p {
+  font-weight: bold;
+}
+h1 {
+  font-weight: lighter;
+}

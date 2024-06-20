@@ -1,0 +1,10 @@
+p::first-line{
+  text-transform: uppercase;
+}
+div::first-line{
+  color: blue;
+}
+h4::first-line{
+  font-style: italic;
+  color: salmon;
+}

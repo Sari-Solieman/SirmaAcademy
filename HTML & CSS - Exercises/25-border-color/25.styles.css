@@ -1,0 +1,11 @@
+h1{
+  text-align: center;
+  border-color: red;
+  border-style: double;
+}
+div {
+  border-style: dashed;
+}
+span {
+  border-style: groove;
+}
