@@ -1,0 +1,7 @@
+.height-example {
+   display: block;
+   background-color: antiquewhite;
+   height: 150px;
+   max-height: 75px;
+   min-height: 25px;
+}

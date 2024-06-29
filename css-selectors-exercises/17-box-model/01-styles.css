@@ -1,0 +1,11 @@
+.box {
+  display: inline-block;
+  border: 2px;
+  border-style: dotted;
+  border-color: red;
+  margin: 30px;
+  padding: 20px;
+  width: 150px;
+  background-color: aqua;
+
+}

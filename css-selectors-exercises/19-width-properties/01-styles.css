@@ -1,0 +1,7 @@
+.width-example {
+  display: block;
+  background-color: aqua;
+  width: 100%;
+  min-width: 75%;
+  max-width: 150%;
+}

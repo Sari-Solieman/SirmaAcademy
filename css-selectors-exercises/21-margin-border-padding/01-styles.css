@@ -1,0 +1,7 @@
+.box-model {
+  margin: 50;
+  border: 5px;
+  padding: 30px;
+  background-color: aqua;
+  border-style: dotted;
+}
